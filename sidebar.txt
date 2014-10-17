@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kpx:home|Door43 (kpx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kpx|d43-kpx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kpx/archive/master.zip|d43-kpx.zip]]
+
+**Recent Changes**
+{{changes>ns = kpx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kpx|Ethnologue data]]
+
